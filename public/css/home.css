@@ -1,22 +1,22 @@
 /* START OF FONTS DECLARATION */
 @font-face {
     font-family: Empera;
-    src: url('public/fonts/Empera-Regular.ttf') format(truetype);
+    src: url('../fonts/Empera-Regular.ttf') format(truetype);
     font-weight: regular;
 }
 @font-face {
     font-family: Gilroy;
-    src: url('public/fonts/Gilroy-Bold.ttf') format(truetype);
+    src: url('../fonts/Gilroy-Bold.ttf') format(truetype);
     font-weight: bold;
 }
 @font-face {
     font-family: Gilroy;
-    src: url('public/fonts/Gilroy-Medium.ttf') format(truetype);
+    src: url('../fonts/Gilroy-Medium.ttf') format(truetype);
     font-weight: medium;
 }
 @font-face {
     font-family: Kensmark;
-    src: url('public/fonts/Kensmark03-Bold.ttf') format(truetype);
+    src: url('../fonts/Kensmark03-Bold.ttf') format(truetype);
     font-weight: bold;
 }
 
@@ -148,7 +148,7 @@ nav .navbar-brand{
     min-height: 100vh;
     height: max-content;
     width: 100vw;
-    background-image: url('public/img/aboutBackground.jpg');
+    background-image: url('../img/aboutBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -184,7 +184,7 @@ nav .navbar-brand{
 }
 
 #dryAgedSection{
-    background-image: url('public/img/background2.png');
+    background-image: url('../img/background2.png');
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -222,7 +222,7 @@ nav .navbar-brand{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('public/img/aboutBackground.jpg');
+    background-image: url('../img/aboutBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ nav .navbar-brand{
 }
 
 #menuSection{
-    background-image: url('public/img/background3.png');
+    background-image: url('../img/background3.png');
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -304,7 +304,7 @@ nav .navbar-brand{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('public/img/aboutBackground.jpg');
+    background-image: url('../img/aboutBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -350,7 +350,7 @@ nav .navbar-brand{
 }
 
 #placeSection{
-    background-image: url('public/img/background4.jpg');
+    background-image: url('../img/background4.jpg');
     background-size: cover;
     padding: 0;
     margin: 0;
@@ -391,7 +391,7 @@ nav .navbar-brand{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    background-image: url('public/img/aboutBackground.jpg');
+    background-image: url('../img/aboutBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -495,7 +495,7 @@ footer{
         width: 100% !important;
     }
     #dryAgedSection{
-        background-image: url('public/img/background5.png');
+        background-image: url('../img/background5.png');
         background-position-x: 30%;
         background-size: cover;
     }#dryAgedSection h3{
