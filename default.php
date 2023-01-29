@@ -1,7 +1,7 @@
 <?php include('public/pages/header.html'); ?>
 <title>Madurado</title>
 <link rel="icon" type="image/x-icon" href="public/img/homeCircle.png">
-<style><?php include('public/resources/css/home.css'); ?></style>
+<style><?php include('public/css/home.css'); ?></style>
 <!-- LAZY LOAD -->
 <style type="text/css">
     .b-lazy {
@@ -163,7 +163,7 @@
     </div>
 </footer>
 <!-- LAZY LOAD -->
-<script src="public/resources/js/blazy.min.js" type="text/javascript"></script>
+<script src="public/js/blazy.min.js" type="text/javascript"></script>
 <script type="text/javascript">
     (function() {
         var bLazy = new Blazy();
