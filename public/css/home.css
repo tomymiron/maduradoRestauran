@@ -87,6 +87,7 @@ nav .navbar-brand{
     position: fixed;
     z-index: -1;
     overflow: hidden !important;
+    background-color: #131517;
     top: 0;
     left: 0;
 }#homeBackground > #background1{
