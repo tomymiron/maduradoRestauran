@@ -199,7 +199,7 @@ nav .navbar-brand{
 }#dryAgedSection h3{
     width: max-content;
     font-family: 'Empera', sans-serif;
-    font-size: calc(3rem + .25vw);
+    font-size: calc(4rem + .25vw);
     text-align: center;
     color: #f8f9fa;
 }#dryAgedSection a{
